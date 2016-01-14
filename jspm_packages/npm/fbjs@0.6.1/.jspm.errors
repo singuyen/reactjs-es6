@@ -1,0 +1,4 @@
+MultipleErrors: /Users/singuyen/.jspm/packages/npm/fbjs@0.6.1/flow/lib/dev.js:10:9: Semi-colon expected
+/Users/singuyen/.jspm/packages/npm/fbjs@0.6.1/flow/lib/dev.js:10:20: Semi-colon expected
+/Users/singuyen/.jspm/packages/npm/fbjs@0.6.1/flow/lib/dev.js:10:20: Unexpected token :
+/Users/singuyen/.jspm/packages/npm/fbjs@0.6.1/flow/lib/dev.js:10:22: Semi-colon expected
